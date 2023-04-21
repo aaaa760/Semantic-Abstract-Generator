@@ -24,6 +24,10 @@ To run the code in this repository, you will need to have Python 3.6 or later in
 
 The model achieved a precision of 0.5, a recall of 0.6, and an f1 score of 0.6 on the test dataset.
 
+##
+
+The Report for the particular project can be found at [Report](https://github.com/aaaa760/Semantic-Abstract-Generator/blob/main/Information_Retrival_Report.pdf)
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.

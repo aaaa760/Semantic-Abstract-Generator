@@ -23,7 +23,9 @@ To run the code in this repository, you will need to have Python 3.6 or later in
 ## Results
 
 The model achieved a precision of 0.5, a recall of 0.6, and an f1 score of 0.6 on the test dataset.
+
 Average semantic similarity: 0.268
+
 Average cosine similarity: 0.451
 
 ##
